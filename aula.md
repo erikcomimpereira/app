@@ -67,3 +67,14 @@ callbacks/promises, arrow functions.
 Coletar os dados 
 Processar os dados (Manipular, alterar...)
 Apresentar os dados. 
+
+
+## Tipos de dados: 
+
+Strings (textos) "" '' ``
+Number 
+
+
+
+## Escopos e Variavéis. 
+
