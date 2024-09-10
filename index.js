@@ -1,10 +1,17 @@
-//hello world
+// array, objetos 
+let meta = {
+    value: 'ler um livro por mês',
+    checked: false,
+    isChecked: (info) => {
+        console.log(info)
+    }
+} 
 
-const mensagem = "olá eu"
+meta.isChecked(meta.value)
 
-{
-    const mensagem = "Hello World"
-    console.log(mensagem)
-    
-}
-console.log(mensagem);
+// function // arrow function
+
+// const CriarMeta = () => {}
+
+// function CriarMeta () {}
+

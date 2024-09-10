@@ -72,9 +72,18 @@ Apresentar os dados.
 ## Tipos de dados: 
 
 Strings (textos) "" '' ``
-Number 
+Number: 2 1.4
+Function 
 
 
 
 ## Escopos e Variavéis. 
+
+Variavéis globais e locais
+Constantes
+
+## Operadores 
+
+Operadores de atribuição de valor. 
+
 
