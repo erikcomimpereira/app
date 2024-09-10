@@ -84,6 +84,25 @@ Constantes
 
 ## Operadores 
 
-Operadores de atribuição de valor. 
+[x] Operadores de atribuição de valor. 
+[x] Operador de concatenação
+## Arrays: 
+
+[x] Uma lista que contém qualquer tipo de dado 
+
+### Objetos: 
+
+- [x]  Atributos e métodos 
+- [x]  Criação e manipulação de objetos 
+- [x]  Acesso a propriedades de objetos 
+
+### Functions
+
+[x] Criar 
+[x] executar
+[x] arrow function / name  function
+
+
+
 
 
