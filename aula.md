@@ -142,3 +142,8 @@ while
 # Condicionais 
 
 [x] Switch 
+
+# Módulos em Node.js: 
+
+[x]Importação de módulos (require, ComminJS)
+[x]Biblioteca 'inquirer' para criar prompts interativos
