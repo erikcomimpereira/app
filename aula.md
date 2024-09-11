@@ -138,3 +138,7 @@ console.log(meta.value)
 # Estrutura de repetição 
 
 while 
+
+# Condicionais 
+
+[x] Switch 
