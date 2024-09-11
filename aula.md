@@ -86,6 +86,7 @@ Constantes
 
 [x] Operadores de atribuição de valor. 
 [x] Operador de concatenação
+- [x] operadores de comparação: == != 1 < 2 
 ## Arrays: 
 
 [x] Uma lista que contém qualquer tipo de dado 
@@ -95,6 +96,7 @@ Constantes
 - [x]  Atributos e métodos 
 - [x]  Criação e manipulação de objetos 
 - [x]  Acesso a propriedades de objetos 
+
 
 ### Functions
 
