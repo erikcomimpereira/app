@@ -5,3 +5,4 @@
 - [x]Marcar/Desmarcar metas como realizadas
 - [x]Remover metas 
 - [x]Sistema de mensagem 
+- [x] persistir dados 
