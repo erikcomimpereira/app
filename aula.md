@@ -86,7 +86,7 @@ Constantes
 
 [x] Operadores de atribuição de valor. 
 [x] Operador de concatenação
-- [x] operadores de comparação: == != 1 < 2 
+- [x] operadores de comparação: == != (diferente = !) 1 < 2 
 sprad operator: ... 
 ## Arrays: 
 
