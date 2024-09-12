@@ -87,6 +87,7 @@ Constantes
 [x] Operadores de atribuição de valor. 
 [x] Operador de concatenação
 - [x] operadores de comparação: == != 1 < 2 
+sprad operator: ... 
 ## Arrays: 
 
 [x] Uma lista que contém qualquer tipo de dado 
